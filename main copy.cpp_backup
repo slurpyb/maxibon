@@ -1,0 +1,19 @@
+#include <iostream>
+#include <memory>
+#include "src/Application.hpp"
+
+int main(int, char**) 
+{
+    std::cout << "Hello, SSSSworld!\n";
+
+    std::unique_ptr<Application> app = std::make_unique<Application>();
+
+    if (app->start())
+    {
+        app->run();
+    };
+
+    app->stop();
+
+    return 0;
+}

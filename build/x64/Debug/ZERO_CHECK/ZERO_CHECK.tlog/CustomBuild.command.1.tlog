@@ -1,0 +1,10 @@
+^C:\USERS\JORDAN\REPOS\SLURPYB\MAXIBON\BUILD\CMAKEFILES\ED098A4EBDADEF54A3A24CA20CC512EF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jordan/repos/slurpyb/maxibon -BC:/Users/jordan/repos/slurpyb/maxibon/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/jordan/repos/slurpyb/maxibon/build/GLFW-CMake-starter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

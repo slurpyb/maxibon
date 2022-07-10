@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jordan\repos\slurpyb\maxibon\build\CMakeFiles\81bf12a8f2a285cbea90e5d12ea92ee6\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jordan\repos\slurpyb\maxibon\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jordan\repos\slurpyb\maxibon\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\jordan\repos\slurpyb\maxibon\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\jordan\repos\slurpyb\maxibon\build\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C360310A-9C93-3035-B0FE-EEFA177AD128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{62413C87-CC86-3046-91A4-D514C4736526}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
