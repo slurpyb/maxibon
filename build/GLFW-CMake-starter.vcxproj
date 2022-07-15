@@ -322,11 +322,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\Engine.cpp" />
     <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\Window.cpp" />
     <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\System.cpp" />
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\Manager.cpp" />
     <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\SystemManager.cpp" />
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\GraphicsSystem.cpp" />
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\PhysicsSystem.cpp" />
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\InputSystem.cpp" />
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\AudioSystem.cpp" />
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\UpdateManager.cpp" />
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\UpdateSystem.cpp" />
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\Observer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\jordan\repos\slurpyb\maxibon\build\ZERO_CHECK.vcxproj">

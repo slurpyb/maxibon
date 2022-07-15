@@ -10,6 +10,7 @@ class Application;
 struct Window;
 class UpdateManager;
 
+
 class Engine
 {
     public:
@@ -31,10 +32,10 @@ class Engine
         bool initialize();
         bool destroy();
         Application* m_application;
-        std::unique_ptr<Window> m_window;
-        std::unique_ptr<SystemManager> m_systemManager;
+        Ptr<Window> m_window = nullptr;
+        Ptr<SystemManager> m_systemManager = nullptr;
 
-        Ptr<UpdateManager> m_updateManager;
+        Ptr<UpdateManager> m_updateManager = nullptr;
         
 
         enum ErrorCode

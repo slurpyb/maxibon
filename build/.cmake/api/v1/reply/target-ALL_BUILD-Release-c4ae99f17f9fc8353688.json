@@ -5,7 +5,7 @@
 		"commands" : [],
 		"files" : 
 		[
-			"glfw/CMakeLists.txt"
+			"CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -17,10 +17,13 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "glfw::@12507ebf64a5258d241e"
+			"id" : "GLFW-CMake-starter::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "boing::@91b33b97678d17ce013a"
+		},
+		{
+			"id" : "glfw::@12507ebf64a5258d241e"
 		},
 		{
 			"id" : "gears::@91b33b97678d17ce013a"
@@ -53,10 +56,16 @@
 			"id" : "events::@b9c82d214eb3193853de"
 		},
 		{
-			"id" : "icon::@b9c82d214eb3193853de"
+			"id" : "inputlag::@b9c82d214eb3193853de"
 		},
 		{
-			"id" : "inputlag::@b9c82d214eb3193853de"
+			"id" : "glfwinfo::@b9c82d214eb3193853de"
+		},
+		{
+			"id" : "monitors::@b9c82d214eb3193853de"
+		},
+		{
+			"id" : "icon::@b9c82d214eb3193853de"
 		},
 		{
 			"id" : "joysticks::@b9c82d214eb3193853de"
@@ -65,13 +74,13 @@
 			"id" : "opacity::@b9c82d214eb3193853de"
 		},
 		{
-			"id" : "glfwinfo::@b9c82d214eb3193853de"
+			"id" : "cursor::@b9c82d214eb3193853de"
+		},
+		{
+			"id" : "gamma::@b9c82d214eb3193853de"
 		},
 		{
 			"id" : "reopen::@b9c82d214eb3193853de"
-		},
-		{
-			"id" : "monitors::@b9c82d214eb3193853de"
 		},
 		{
 			"id" : "msaa::@b9c82d214eb3193853de"
@@ -80,47 +89,41 @@
 			"id" : "iconify::@b9c82d214eb3193853de"
 		},
 		{
-			"id" : "cursor::@b9c82d214eb3193853de"
-		},
-		{
 			"id" : "empty::@b9c82d214eb3193853de"
 		},
 		{
-			"id" : "gamma::@b9c82d214eb3193853de"
-		},
-		{
-			"id" : "triangle-vulkan::@b9c82d214eb3193853de"
+			"id" : "threads::@b9c82d214eb3193853de"
 		},
 		{
 			"id" : "title::@b9c82d214eb3193853de"
 		},
 		{
+			"id" : "tearing::@b9c82d214eb3193853de"
+		},
+		{
 			"id" : "windows::@b9c82d214eb3193853de"
+		},
+		{
+			"id" : "triangle-vulkan::@b9c82d214eb3193853de"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "timeout::@b9c82d214eb3193853de"
-		},
-		{
-			"id" : "tearing::@b9c82d214eb3193853de"
-		},
-		{
-			"id" : "threads::@b9c82d214eb3193853de"
 		}
 	],
 	"folder" : 
 	{
 		"name" : "CMakePredefinedTargets"
 	},
-	"id" : "ALL_BUILD::@eb154563b92743f6cbb3",
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
 	"isGeneratorProvided" : true,
 	"name" : "ALL_BUILD",
 	"paths" : 
 	{
-		"build" : "glfw",
-		"source" : "glfw"
+		"build" : ".",
+		"source" : "."
 	},
 	"sources" : [],
 	"type" : "UTILITY"

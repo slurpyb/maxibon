@@ -24,7 +24,7 @@ bool UpdateManager::stop()
 bool UpdateManager::initialize()
 {
     SystemManager* systemManager = m_engine->GetSystemManager();
-    PhysicsSystem* physicsSystem = systemManager->GetSystem<PhysicsSystem>("physics_system");
+    // PhysicsSystem* physicsSystem = systemManager->GetSystem<PhysicsSystem>("physics_system");
     
     return true;
 }

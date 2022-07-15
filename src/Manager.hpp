@@ -1,8 +1,6 @@
 #ifndef MANAGER_HPP
 #define MANAGER_HPP
 
-#include "Observer.hpp"
-
 class Engine;
 class Manager
 {

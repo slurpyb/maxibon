@@ -191,21 +191,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-03ff44a8ed581123698f.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-c4ae99f17f9fc8353688.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@eb154563b92743f6cbb3",
-					"jsonFile" : "target-ALL_BUILD-Debug-7586fb4c2b2c2d96708d.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-508d80a71749ad7b1768.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "GLFW-CMake-starter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GLFW-CMake-starter-Debug-b6f9c140abe9f63044f3.json",
+					"jsonFile" : "target-GLFW-CMake-starter-Debug-7e93254446cba5bb4fb3.json",
 					"name" : "GLFW-CMake-starter",
 					"projectIndex" : 0
 				},
@@ -625,21 +625,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-03ff44a8ed581123698f.json",
+					"jsonFile" : "target-ALL_BUILD-Release-c4ae99f17f9fc8353688.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@eb154563b92743f6cbb3",
-					"jsonFile" : "target-ALL_BUILD-Release-7586fb4c2b2c2d96708d.json",
+					"jsonFile" : "target-ALL_BUILD-Release-508d80a71749ad7b1768.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "GLFW-CMake-starter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GLFW-CMake-starter-Release-0842e95905f895956e8b.json",
+					"jsonFile" : "target-GLFW-CMake-starter-Release-8fd10937140c440a761d.json",
 					"name" : "GLFW-CMake-starter",
 					"projectIndex" : 0
 				},
@@ -1059,21 +1059,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-03ff44a8ed581123698f.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-c4ae99f17f9fc8353688.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@eb154563b92743f6cbb3",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-7586fb4c2b2c2d96708d.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-508d80a71749ad7b1768.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "GLFW-CMake-starter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GLFW-CMake-starter-MinSizeRel-648448049567437e2f1a.json",
+					"jsonFile" : "target-GLFW-CMake-starter-MinSizeRel-afa8d661beeb620cb18b.json",
 					"name" : "GLFW-CMake-starter",
 					"projectIndex" : 0
 				},
@@ -1493,21 +1493,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-03ff44a8ed581123698f.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-c4ae99f17f9fc8353688.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "ALL_BUILD::@eb154563b92743f6cbb3",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-7586fb4c2b2c2d96708d.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-508d80a71749ad7b1768.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "GLFW-CMake-starter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GLFW-CMake-starter-RelWithDebInfo-3c84b3005a244d26acba.json",
+					"jsonFile" : "target-GLFW-CMake-starter-RelWithDebInfo-a36b378096d02ab39e6a.json",
 					"name" : "GLFW-CMake-starter",
 					"projectIndex" : 0
 				},

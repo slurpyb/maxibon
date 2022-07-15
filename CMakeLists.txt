@@ -21,16 +21,11 @@ set( GLFW-CMAKE-STARTER-SRC
      src/Engine.cpp
      src/Window.cpp
      src/System.cpp
-    #  src/ObjectID.cpp
+     src/Manager.cpp
      src/SystemManager.cpp
-     src/GraphicsSystem.cpp
-     src/PhysicsSystem.cpp
-     src/InputSystem.cpp
-     src/AudioSystem.cpp
-    #  src/WindowSystem.cpp
-    #  src/RenderSystem.cpp
-    #  src/Observer.cpp
-    #  src/Message.cpp
+     src/UpdateManager.cpp
+     src/UpdateSystem.cpp
+     src/Observer.cpp
      )
      
 add_executable( GLFW-CMake-starter WIN32 ${GLFW-CMAKE-STARTER-SRC} )

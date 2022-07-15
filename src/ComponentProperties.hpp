@@ -1,6 +1,0 @@
-#ifndef COMPONENTPROPERTIES_HPP
-#define COMPONENTPROPERTIES_HPP
-
-#include "ComponentAttributes.hpp"
-
-#endif // COMPONENTPROPERTIES_HPP

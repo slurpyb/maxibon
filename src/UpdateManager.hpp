@@ -11,7 +11,7 @@
 #include "Manager.hpp"
 
 class Engine;
-class UpdateManager :   public Manager, public Observer<UpdateManager>
+class UpdateManager :   public Manager
 {
     public:
         UpdateManager(Engine* p_engine);

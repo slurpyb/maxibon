@@ -1,14 +1,13 @@
 #include "Engine.hpp"
+
 #include "SystemManager.hpp"
 #include "UpdateManager.hpp"
 #include "Window.hpp"
+
 #include "../include/GLFW/glfw3.h"
 
 Engine::Engine(Application* p_application)
-    :   m_application(p_application),
-        m_window(nullptr),
-        m_systemManager(nullptr),
-        m_updateManager(nullptr)
+    :   m_application(p_application)
 {
     
 }
@@ -64,8 +63,10 @@ bool Engine::initialize()
     glfwInit();
 
     m_window = std::make_unique<Window>();
-    m_updateManager = std::make_unique<UpdateManager>(this);
     m_systemManager = std::make_unique<SystemManager>(this);
+
+    m_updateManager = std::make_unique<UpdateManager>(this);
+    
 // glfwSetErrorCallback(glfwErrorCallback); 
 
     if (!glfwInit())

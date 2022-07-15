@@ -6,17 +6,23 @@
 #include <type_traits>
 #include <memory>
 
+#include "Types.h"
+
 class SystemManager;
 class System
 {
     public:
-        System(SystemManager* p_systemManager);
-        virtual ~System() {};
+        System(SystemManager* p_systemManagerm, const SystemType& l_systemType);
+        virtual ~System();
 
         SystemManager* GetSystemManager();
+        
+        const SystemType& getSystemType();
+
 
     protected:
         SystemManager* m_systemManager;
+        SystemType m_systemType;
 };
 
 

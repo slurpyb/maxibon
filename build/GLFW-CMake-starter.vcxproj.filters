@@ -16,19 +16,19 @@
     <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\System.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\SystemManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\GraphicsSystem.cpp">
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\UpdateManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\PhysicsSystem.cpp">
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\UpdateSystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\InputSystem.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\AudioSystem.cpp">
+    <ClCompile Include="C:\Users\jordan\repos\slurpyb\maxibon\src\Observer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
